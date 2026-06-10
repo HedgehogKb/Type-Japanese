@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Type Japanese</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="check_answer">Check Answer</string>
 </resources>
